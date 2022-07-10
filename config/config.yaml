@@ -1,0 +1,6 @@
+http:
+  port: "8008"
+  proxy: "" # example: "http://login:pass@127.0.0.1:8888"
+
+log:
+  level: "trace"
